@@ -11,3 +11,12 @@
 ul {
   list-style: none;
 }
+
+.pic {
+  border-radius: 50%;
+  width: 100px;
+}
+
+span {
+  cursor: pointer;
+}
